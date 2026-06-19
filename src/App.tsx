@@ -427,7 +427,7 @@ export default function App() {
             <h3 className="aside-title">Fórmulas clave</h3>
             <div className="formula-list-item">pH = -log₁₀[H⁺]</div>
             <div className="formula-list-item">pOH = -log₁₀[OH⁻]</div>
-            <div className="formula-list-item">pH + pOH = 14 (a 25°C)</div>
+            <div className="formula-list-item">pH + pOH = 14 </div>
             <div className="formula-list-item">[H⁺] × [OH⁻] = Kw = 1 × 10⁻¹⁴</div>
             <div className="formula-list-item">Ka = [H⁺][A⁻] / [HA]</div>
             <div className="formula-list-item">Kb = [BH⁺][OH⁻] / [B]</div>
